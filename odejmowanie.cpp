@@ -1,1 +1,3 @@
-ind odejmowanie()
+void odejmowanie()
+{
+	int a;
