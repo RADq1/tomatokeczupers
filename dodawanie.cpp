@@ -6,5 +6,5 @@ cout << "Podaj pierwszą liczbę" << a;
 cin >> a;
 cout << "Podaj drugą liczbę" << b;
 cin >> b;
-
+c=a+b;
 }
