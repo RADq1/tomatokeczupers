@@ -7,3 +7,4 @@ cout<< "Podaj drugą liczbę:";
 cin >> b;
 c=a/b;
 cout << "Twój wynik to: ";
+return c;
