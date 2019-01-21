@@ -1,4 +1,6 @@
 int dzielenie()
 {
 int a, b, c;
+cout << "Podaj pierwszą liczbę: ";
+cin >> a;
 
