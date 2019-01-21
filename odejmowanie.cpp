@@ -4,3 +4,4 @@ void odejmowanie()
 	std::cin >> a;
 	int b;
 	std::cin >> b;
+	std::cout << "Wynik odejmowania: " << a << + << b << " = " << a + b;
