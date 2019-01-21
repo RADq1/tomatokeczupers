@@ -1,4 +1,4 @@
 main()
 {
-	printf("Zdaj Ledzion");
+	printf("Prosze zdaj Ledzion");
 }
