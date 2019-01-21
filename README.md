@@ -1,2 +1,2 @@
-# tomatokeczupers
-Lab6
+# Dodawanie
+Radoslaw Gackowski - Lab6
