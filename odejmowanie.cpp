@@ -6,3 +6,4 @@ void odejmowanie()
 	std::cin >> b;
 	std::cout << "Wynik odejmowania: " << a << + << b << " = " << a + b;
 	std::cout << endl;
+}
