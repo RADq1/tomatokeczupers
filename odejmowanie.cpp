@@ -7,5 +7,5 @@ cin >> a;
 cout << "Podaj drugą liczbę" << b << endl;
 cin >> b;
 c=a-b;
-cout << "Wynik dodawania: << c;
+cout << "Wynik dodawania: << c << endl;
 return c;
